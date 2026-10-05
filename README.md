@@ -19,4 +19,4 @@ it shows the message "You did not enter a sentence."
 
 ## Limitation
 The character count includes leading, trailing and repeated spaces, so
-it may not match what the user considers the "real" length of the sentence.
+it may not match what the user considers the "real" length of the sentence."# CSC649_1" 
